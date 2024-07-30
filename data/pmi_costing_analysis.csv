@@ -1,0 +1,26 @@
+country,iso,time_period,total_malaria_budget,entomological_monitoring_budget,any_irs_sites,region
+Angola,AGO,2021-2023,55000000,1875000,No,Central Africa
+Benin,BEN,2021-2023,48500000,1913475,Yes,West Africa
+Burkina Faso,BFA,2021-2023,77500000,1250000,Yes,West Africa
+Burundi,BDI,2021-2023,26500000,2164500,Yes,East Africa
+Cameroon,CMR,2021-2023,68000000,3858625,No,Central Africa
+Cote d'Ivoire,CIV,2021-2023,73000000,1150000,Yes,West Africa
+Democratic Republic of Congo,COD,2021-2023,157000000,3118000,No,Central Africa
+Ethiopia,ETH,2021-2023,105000000,1700000,Yes,East Africa
+Ghana,GHA,2021-2023,83000000,1560000,Yes,West Africa
+Guinea,GIN,2021-2023,46000000,2762262,No,West Africa
+Kenya,KEN,2021-2023,95500000,2300000,Yes,East Africa
+Liberia,LBR,2021-2023,42500000,3193000,No,West Africa
+Madagascar,MDG,2021-2023,76000000,2100000,Yes,East Africa
+Malawi,MWI,2021-2023,71000000,1960000,Yes,East Africa
+Mali,MLI,2021-2023,74500000,1275000,Yes,West Africa
+Mozambique,MOZ,2021-2023,85500000,3808210,Yes,East Africa
+Niger,NER,2021-2023,56500000,1385000,No,West Africa
+Nigeria,NGA,2021-2023,210000000,7070000,No,West Africa
+Rwanda,RWA,2021-2023,57500000,1600000,Yes,East Africa
+Senegal,SEN,2021-2023,72000000,2350000,Yes,West Africa
+Sierra Leone,SLE,2021-2023,46500000,4525000,Yes,West Africa
+Tanzania,TZA,2021-2023,125000000,2778000,Yes,East Africa
+Uganda,UGA,2021-2023,96000000,2112500,Yes,East Africa
+Zambia,ZMB,2021-2023,86000000,1380000,Yes,East Africa
+Zimbabwe,ZWE,2021-2023,44000000,2500000,Yes,Southern Africa

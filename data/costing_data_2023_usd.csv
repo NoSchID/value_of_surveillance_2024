@@ -1,0 +1,12 @@
+item,cost
+PYRcost,3.62
+PBOcost,4.51
+Pyrollecost,4.94
+IRScost,7.8
+SMCcost,1.1
+vacc_cost_per_dose,13.7
+vacc_delivery_cost,1.6
+RDTcost,0.55
+ALcost,0.45
+outpatient_cost,2.1
+inpatient_cost,25
